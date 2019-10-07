@@ -1,6 +1,6 @@
 def consolidate_cart(cart)
   cart = {}
-  
+  cart.each do 
 end
 
 def apply_coupons(cart, coupons)
